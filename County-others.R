@@ -2,7 +2,7 @@ library(shiny)
 library(flexdashboard)
 library(readr)
 library(shinyWidgets)
-library(echarts4r)
+#library(echarts4r)
 
 # Sample data frame with location-value mapping
 data1 <- read_csv("data1.csv")
